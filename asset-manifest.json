@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ShouryaFinanceWebSite/static/css/main.7746b680.css",
+    "main.js": "/ShouryaFinanceWebSite/static/js/main.9ab27703.js",
+    "index.html": "/ShouryaFinanceWebSite/index.html",
+    "main.7746b680.css.map": "/ShouryaFinanceWebSite/static/css/main.7746b680.css.map",
+    "main.9ab27703.js.map": "/ShouryaFinanceWebSite/static/js/main.9ab27703.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7746b680.css",
+    "static/js/main.9ab27703.js"
+  ]
+}
